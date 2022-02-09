@@ -1,1 +1,1 @@
-# Applied-AI-Chellenge-1
+# Applied-AI-Challenge-1
